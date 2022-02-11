@@ -74,5 +74,8 @@ class Follow(models.Model):
         related_name='followin'
     )
 
+    class Meta:
+        unique_together = ('user', 'following')
+
     def __str__(self):
         return {self.user}, {self.following}

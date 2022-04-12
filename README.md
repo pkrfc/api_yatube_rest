@@ -22,11 +22,11 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/pkrfc/api_final_yatube.git
+https://github.com/pkrfc/api_yatube_rest.git
 ```
 
 ```
-cd api_final_yatube
+cd api_yatube_rest
 ```
 
 Cоздать и активировать виртуальное окружение:

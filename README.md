@@ -67,3 +67,6 @@ http://127.0.0.1:8000/redoc/
 
 доступна после запуска сервера.
 ```
+
+
+telegram: https://t.me/maxkorolyov
